@@ -5,7 +5,8 @@ Ce dépôt regroupe mes travaux pratiques en réseaux et systèmes.
 
 ## Labos
 
-À venir.
+Portfolio en cours de constitution.
+Premiers travaux pratiques publiés au fil de ma formation.
 
 ## Contact
 
